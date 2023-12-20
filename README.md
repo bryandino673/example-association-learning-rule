@@ -60,3 +60,4 @@ To implement the apriori algorithm, you need to implement the following function
 - Doc [here](./docs/apriori.md)
 - Demo [here](./notebook/apriori.ipynb)
 -Thanks for reading.
+-tanks for studying this option
